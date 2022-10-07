@@ -1,3 +1,6 @@
+# link to source problem: https://adventofcode.com/2021/day/1
+
+
 def read_file(path):
     with open(path, 'r') as file:
         return list(map(int, file.readlines()))
