@@ -1,3 +1,5 @@
+# link to source problem: https://adventofcode.com/2021/day/5
+
 def read_file(file):
     with open(file, 'r') as f:
         instructions = []

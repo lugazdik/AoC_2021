@@ -1,3 +1,5 @@
+# link to source problem: https://adventofcode.com/2021/day/4
+
 def read_file(file, matrix_dim):
     with open(file, 'r') as f:
         lines = f.readlines()

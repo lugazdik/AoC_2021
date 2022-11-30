@@ -1,3 +1,5 @@
+# link to source problem: https://adventofcode.com/2021/day/6
+
 def read_file(file):
     with open(file, 'r') as f:
         return list(map(int, f.readline().split(',')))
